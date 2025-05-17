@@ -8,3 +8,4 @@ rolling dice. Then we’ll plot the results of a large number of rolls to determ
 which results are more likely than others.
 
 ![Demo of dice Roll Visualization](newplot.png)
+![Demo of dice Roll Visualization](plot_hist.png)
